@@ -9,6 +9,6 @@
 </div>
     
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faustyu&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faustyu&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faustyu&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faustyu1&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faustyu1&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faustyu1&theme=merko)
