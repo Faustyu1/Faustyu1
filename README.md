@@ -4,7 +4,7 @@
        alt="snake" />
     <div align="center" id="badges">
  <a href="https://t.me/faustyu">
-      <img src="https://img.shields.io/badge/-faustyuz-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/-faustyu-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
 </div>
     
